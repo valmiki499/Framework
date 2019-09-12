@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="2" name="ChromeTest(failed)">
+    <parameter name="browser" value="Chrome"/>
+    <classes>
+      <class name="demotc.demo.Testcases">
+        <methods>
+          <include name="loginandlogout"/>
+          <include name="setup"/>
+          <include name="tearDownmethod"/>
+          <include name="setupclosed"/>
+        </methods>
+      </class> <!-- demotc.demo.Testcases -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

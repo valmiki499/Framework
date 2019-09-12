@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/valmiki/Selenium progam/Apache POI/poi-3.17/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/valmiki/Selenium progam/Apache POI/poi-3.17/ooxml-lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="D:/valmiki/Selenium progam/Apache POI/poi-3.17/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/valmiki/Selenium progam/Apache POI/poi-3.17/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/valmiki/Selenium progam/Apache POI/poi-3.17/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/valmiki/Selenium progam/Apache POI/poi-3.17/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/valmiki/Selenium progam/Apache POI/poi-3.17/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/valmiki/Selenium progam/Apache POI/poi-3.17/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/valmiki/Selenium progam/Apache POI/poi-3.17/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/valmiki/Selenium progam/Apache POI/poi-3.17/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/valmiki/Selenium progam/Apache POI/poi-3.17/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/valmiki/Selenium progam/Apache POI/poi-3.17/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/valmiki/Selenium progam/Apache POI/poi-3.17/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/valmiki/.m2/repository/org/json/json/20080701/json-20080701.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.json"/>
+			<attribute name="maven.artifactId" value="json"/>
+			<attribute name="maven.version" value="20080701"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/valmiki/.m2/repository/io/rest-assured/rest-assured/3.0.2/rest-assured-3.0.2.jar" sourcepath="C:/Users/valmiki/.m2/repository/io/rest-assured/rest-assured/3.0.2/rest-assured-3.0.2-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="io.rest-assured"/>
+			<attribute name="maven.artifactId" value="rest-assured"/>
+			<attribute name="maven.version" value="3.0.2"/>
+			<attribute name="maven.scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/valmiki/.m2/repository/io/github/bonigarcia/webdrivermanager/3.2.0/webdrivermanager-3.2.0.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="io.github.bonigarcia"/>
+			<attribute name="maven.artifactId" value="webdrivermanager"/>
+			<attribute name="maven.version" value="3.2.0"/>
+			<attribute name="maven.scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

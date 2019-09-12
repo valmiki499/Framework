@@ -1,0 +1,1305 @@
+2018-12-13 15:51:44,467 INFO  [AddRooms] Login details called 
+2018-12-13 15:51:50,591 INFO  [AddRooms] successfully Logged in 
+2018-12-13 15:51:50,605 INFO  [AddRooms] Initiated PageFactory 
+2018-12-13 15:53:45,918 INFO  [AddRooms] Login details called 
+2018-12-13 15:53:51,033 INFO  [AddRooms] successfully Logged in 
+2018-12-13 15:53:51,109 INFO  [AddRooms] Initiated PageFactory 
+2018-12-13 15:53:55,538 INFO  [AddRooms] Click on Setup menu 
+2018-12-13 15:53:58,661 INFO  [AddRooms] Click on property info menu 
+2018-12-13 15:54:00,521 INFO  [AddRooms] Reading No of Room value 
+2018-12-13 15:54:00,521 INFO  [AddRooms] printing No. of Room count 
+2018-12-13 15:54:00,522 INFO  [AddRooms] parsing Text to integer value10 
+2018-12-13 15:54:00,522 INFO  [AddRooms] printing converted value on console 
+2018-12-13 15:54:00,798 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-13 15:54:00,798 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-13 15:54:01,277 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-13 15:54:05,310 INFO  [AddRooms] Inserted Roominfo details 
+2018-12-13 15:54:06,977 INFO  [AddRooms] Inserted Weekly Room Rate 
+2018-12-13 15:54:07,963 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2018-12-13 15:54:09,261 INFO  [AddRooms] Inserted Weekly Room Availability 
+2018-12-13 15:54:09,262 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2018-12-13 15:54:09,999 INFO  [AddRooms] Clicked on bed config dropdown 
+2018-12-13 15:54:09,999 INFO  [AddRooms] Read bed config value from excel 
+2018-12-13 15:54:10,179 INFO  [AddRooms] printing all Bed config drop down values 
+2018-12-13 15:54:10,223 INFO  [AddRooms] bed config value selected as per excel data 
+2018-12-13 15:58:40,843 INFO  [AddRooms] Login details called 
+2018-12-13 15:58:49,158 INFO  [AddRooms] successfully Logged in 
+2018-12-13 15:58:49,211 INFO  [AddRooms] Initiated PageFactory 
+2018-12-13 15:58:56,769 INFO  [AddRooms] Click on Setup menu 
+2018-12-13 15:58:59,863 INFO  [AddRooms] Click on property info menu 
+2018-12-13 15:59:01,895 INFO  [AddRooms] Reading No of Room value 
+2018-12-13 15:59:01,895 INFO  [AddRooms] printing No. of Room count 
+2018-12-13 15:59:01,895 INFO  [AddRooms] parsing Text to integer value10 
+2018-12-13 15:59:01,895 INFO  [AddRooms] printing converted value on console 
+2018-12-13 15:59:02,153 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-13 15:59:02,153 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-13 15:59:04,021 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-13 15:59:08,551 INFO  [AddRooms] Inserted Roominfo details 
+2018-12-13 15:59:10,273 INFO  [AddRooms] Inserted Weekly Room Rate 
+2018-12-13 15:59:11,470 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2018-12-13 15:59:12,967 INFO  [AddRooms] Inserted Weekly Room Availability 
+2018-12-13 15:59:12,967 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2018-12-13 15:59:21,799 INFO  [AddRooms] Clicked on bed config dropdown 
+2018-12-13 15:59:29,182 INFO  [AddRooms] Read bed config value from excel 
+2018-12-13 15:59:37,071 INFO  [AddRooms] printing all Bed config drop down values 
+2018-12-13 16:00:53,250 INFO  [AddRooms] Login details called 
+2018-12-13 16:01:06,344 INFO  [AddRooms] successfully Logged in 
+2018-12-13 16:01:06,362 INFO  [AddRooms] Initiated PageFactory 
+2018-12-13 16:01:10,187 INFO  [AddRooms] Click on Setup menu 
+2018-12-13 16:01:13,294 INFO  [AddRooms] Click on property info menu 
+2018-12-13 16:01:15,880 INFO  [AddRooms] Reading No of Room value 
+2018-12-13 16:01:15,880 INFO  [AddRooms] printing No. of Room count 
+2018-12-13 16:01:15,881 INFO  [AddRooms] parsing Text to integer value10 
+2018-12-13 16:01:15,881 INFO  [AddRooms] printing converted value on console 
+2018-12-13 16:01:16,138 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-13 16:01:16,138 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-13 16:01:16,637 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-13 16:01:20,499 INFO  [AddRooms] Inserted Roominfo details 
+2018-12-13 16:01:22,286 INFO  [AddRooms] Inserted Weekly Room Rate 
+2018-12-13 16:01:23,564 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2018-12-13 16:01:25,254 INFO  [AddRooms] Inserted Weekly Room Availability 
+2018-12-13 16:01:25,254 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2018-12-13 16:01:26,026 INFO  [AddRooms] Clicked on bed config dropdown 
+2018-12-13 16:01:26,027 INFO  [AddRooms] Read bed config value from excel 
+2018-12-13 16:01:26,216 INFO  [AddRooms] printing all Bed config drop down values 
+2018-12-13 16:01:26,257 INFO  [AddRooms] bed config value selected as per excel data 
+2018-12-13 16:03:07,231 INFO  [AddRooms] Login details called 
+2018-12-13 16:03:13,912 INFO  [AddRooms] successfully Logged in 
+2018-12-13 16:03:13,927 INFO  [AddRooms] Initiated PageFactory 
+2018-12-13 16:03:27,477 INFO  [AddRooms] Click on Setup menu 
+2018-12-13 16:03:30,581 INFO  [AddRooms] Click on property info menu 
+2018-12-13 16:03:33,110 INFO  [AddRooms] Reading No of Room value 
+2018-12-13 16:03:33,110 INFO  [AddRooms] printing No. of Room count 
+2018-12-13 16:03:33,110 INFO  [AddRooms] parsing Text to integer value10 
+2018-12-13 16:03:33,110 INFO  [AddRooms] printing converted value on console 
+2018-12-13 16:03:33,360 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-13 16:03:33,360 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-13 16:03:33,786 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-13 16:03:38,262 INFO  [AddRooms] Inserted Roominfo details 
+2018-12-13 16:03:39,940 INFO  [AddRooms] Inserted Weekly Room Rate 
+2018-12-13 16:03:40,952 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2018-12-13 16:03:42,245 INFO  [AddRooms] Inserted Weekly Room Availability 
+2018-12-13 16:03:42,245 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2018-12-13 16:11:18,640 INFO  [AddRooms] Clicked on bed config dropdown 
+2018-12-13 16:11:20,306 INFO  [AddRooms] Read bed config value from excel 
+2018-12-13 16:11:25,696 INFO  [AddRooms] printing all Bed config drop down values 
+2018-12-13 17:01:13,641 INFO  [AddRooms] Login details called 
+2018-12-13 17:01:27,211 INFO  [AddRooms] successfully Logged in 
+2018-12-13 17:01:27,307 INFO  [AddRooms] Initiated PageFactory 
+2018-12-13 17:01:34,552 INFO  [AddRooms] Click on Setup menu 
+2018-12-13 17:01:37,664 INFO  [AddRooms] Click on property info menu 
+2018-12-13 17:01:43,097 INFO  [AddRooms] Reading No of Room value 
+2018-12-13 17:01:43,098 INFO  [AddRooms] printing No. of Room count 
+2018-12-13 17:01:43,098 INFO  [AddRooms] parsing Text to integer value10 
+2018-12-13 17:01:43,098 INFO  [AddRooms] printing converted value on console 
+2018-12-13 17:01:43,378 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-13 17:01:43,378 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-13 17:01:44,534 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-13 17:01:48,413 INFO  [AddRooms] Inserted Roominfo details 
+2018-12-13 17:01:50,021 INFO  [AddRooms] Inserted Weekly Room Rate 
+2018-12-13 17:01:51,051 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2018-12-13 17:01:52,309 INFO  [AddRooms] Inserted Weekly Room Availability 
+2018-12-13 17:01:52,309 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2018-12-13 17:02:08,436 INFO  [AddRooms] Clicked on bed config dropdown 
+2018-12-13 17:02:10,867 INFO  [AddRooms] Read bed config value from excel 
+2018-12-13 17:06:46,331 INFO  [AddRooms] Login details called 
+2018-12-13 17:06:51,241 INFO  [AddRooms] successfully Logged in 
+2018-12-13 17:06:51,391 INFO  [AddRooms] Initiated PageFactory 
+2018-12-13 17:06:58,548 INFO  [AddRooms] Click on Setup menu 
+2018-12-13 17:07:01,642 INFO  [AddRooms] Click on property info menu 
+2018-12-13 17:07:03,583 INFO  [AddRooms] Reading No of Room value 
+2018-12-13 17:07:03,584 INFO  [AddRooms] printing No. of Room count 
+2018-12-13 17:07:03,584 INFO  [AddRooms] parsing Text to integer value10 
+2018-12-13 17:07:03,584 INFO  [AddRooms] printing converted value on console 
+2018-12-13 17:07:03,858 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-13 17:07:03,859 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-13 17:07:04,718 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-13 17:07:09,611 INFO  [AddRooms] Inserted Roominfo details 
+2018-12-13 17:07:11,384 INFO  [AddRooms] Inserted Weekly Room Rate 
+2018-12-13 17:07:12,484 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2018-12-13 17:07:13,886 INFO  [AddRooms] Inserted Weekly Room Availability 
+2018-12-13 17:07:13,887 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2018-12-13 17:07:21,318 INFO  [AddRooms] Clicked on bed config dropdown 
+2018-12-13 17:07:28,828 INFO  [AddRooms] Read bed config value from excel 
+2018-12-13 17:09:08,802 INFO  [AddRooms] Login details called 
+2018-12-13 17:09:16,286 INFO  [AddRooms] successfully Logged in 
+2018-12-13 17:09:16,528 INFO  [AddRooms] Initiated PageFactory 
+2018-12-13 17:09:21,742 INFO  [AddRooms] Click on Setup menu 
+2018-12-13 17:09:24,892 INFO  [AddRooms] Click on property info menu 
+2018-12-13 17:09:27,402 INFO  [AddRooms] Reading No of Room value 
+2018-12-13 17:09:27,403 INFO  [AddRooms] printing No. of Room count 
+2018-12-13 17:09:27,403 INFO  [AddRooms] parsing Text to integer value10 
+2018-12-13 17:09:27,403 INFO  [AddRooms] printing converted value on console 
+2018-12-13 17:09:27,690 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-13 17:09:27,690 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-13 17:09:29,264 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-13 17:09:33,383 INFO  [AddRooms] Inserted Roominfo details 
+2018-12-13 17:09:35,081 INFO  [AddRooms] Inserted Weekly Room Rate 
+2018-12-13 17:09:36,216 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2018-12-13 17:09:37,505 INFO  [AddRooms] Inserted Weekly Room Availability 
+2018-12-13 17:09:37,506 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2018-12-13 17:09:38,261 INFO  [AddRooms] Clicked on bed config dropdown 
+2018-12-13 17:09:38,262 INFO  [AddRooms] Read bed config value from excel 
+2018-12-13 17:10:26,341 INFO  [AddRooms] Login details called 
+2018-12-13 17:51:59,810 INFO  [AddRooms] Login details called 
+2018-12-13 17:52:06,297 INFO  [AddRooms] successfully Logged in 
+2018-12-13 17:52:06,328 INFO  [AddRooms] Initiated PageFactory 
+2018-12-13 17:52:10,215 INFO  [AddRooms] Click on Setup menu 
+2018-12-13 17:52:13,317 INFO  [AddRooms] Click on property info menu 
+2018-12-13 17:52:15,606 INFO  [AddRooms] Reading No of Room value 
+2018-12-13 17:52:15,606 INFO  [AddRooms] printing No. of Room count 
+2018-12-13 17:52:15,607 INFO  [AddRooms] parsing Text to integer value10 
+2018-12-13 17:52:15,607 INFO  [AddRooms] printing converted value on console 
+2018-12-13 17:52:15,879 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-13 17:52:15,879 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-13 17:52:16,844 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-13 17:52:20,814 INFO  [AddRooms] Inserted Roominfo details 
+2018-12-13 17:52:22,463 INFO  [AddRooms] Inserted Weekly Room Rate 
+2018-12-13 17:52:23,475 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2018-12-13 17:52:24,743 INFO  [AddRooms] Inserted Weekly Room Availability 
+2018-12-13 17:52:24,743 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2018-12-13 17:52:25,454 INFO  [AddRooms] Clicked on bed config dropdown 
+2018-12-13 17:52:25,455 INFO  [AddRooms] Read bed config value from excel 
+2018-12-13 17:55:42,974 INFO  [AddRooms] Login details called 
+2018-12-13 17:56:00,420 INFO  [AddRooms] successfully Logged in 
+2018-12-13 17:56:00,494 INFO  [AddRooms] Initiated PageFactory 
+2018-12-13 17:56:05,278 INFO  [AddRooms] Click on Setup menu 
+2018-12-13 17:56:08,379 INFO  [AddRooms] Click on property info menu 
+2018-12-13 17:56:10,276 INFO  [AddRooms] Reading No of Room value 
+2018-12-13 17:56:10,276 INFO  [AddRooms] printing No. of Room count 
+2018-12-13 17:56:10,276 INFO  [AddRooms] parsing Text to integer value10 
+2018-12-13 17:56:10,276 INFO  [AddRooms] printing converted value on console 
+2018-12-13 17:56:10,565 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-13 17:56:10,565 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-13 17:56:11,089 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-13 17:56:14,729 INFO  [AddRooms] Inserted Roominfo details 
+2018-12-13 17:56:16,405 INFO  [AddRooms] Inserted Weekly Room Rate 
+2018-12-13 17:56:17,630 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2018-12-13 17:56:19,088 INFO  [AddRooms] Inserted Weekly Room Availability 
+2018-12-13 17:56:19,088 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2018-12-13 17:56:19,825 INFO  [AddRooms] Clicked on bed config dropdown 
+2018-12-13 17:56:19,826 INFO  [AddRooms] Read bed config value from excel 
+2018-12-13 17:56:20,093 INFO  [AddRooms] bed config value selected as per excel data 
+2018-12-13 17:57:51,414 INFO  [AddRooms] Login details called 
+2018-12-13 17:58:02,176 INFO  [AddRooms] successfully Logged in 
+2018-12-13 17:58:02,217 INFO  [AddRooms] Initiated PageFactory 
+2018-12-13 17:58:06,445 INFO  [AddRooms] Click on Setup menu 
+2018-12-13 17:58:09,546 INFO  [AddRooms] Click on property info menu 
+2018-12-13 17:58:11,709 INFO  [AddRooms] Reading No of Room value 
+2018-12-13 17:58:11,710 INFO  [AddRooms] printing No. of Room count 
+2018-12-13 17:58:11,710 INFO  [AddRooms] parsing Text to integer value10 
+2018-12-13 17:58:11,710 INFO  [AddRooms] printing converted value on console 
+2018-12-13 17:58:11,954 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-13 17:58:11,954 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-13 17:58:12,476 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-13 17:58:15,986 INFO  [AddRooms] Inserted Roominfo details 
+2018-12-13 17:58:17,785 INFO  [AddRooms] Inserted Weekly Room Rate 
+2018-12-13 17:58:19,204 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2018-12-13 17:58:20,558 INFO  [AddRooms] Inserted Weekly Room Availability 
+2018-12-13 17:58:20,559 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2018-12-13 17:58:21,282 INFO  [AddRooms] Clicked on bed config dropdown 
+2018-12-13 17:58:21,282 INFO  [AddRooms] Read bed config value from excel 
+2018-12-13 18:00:48,448 INFO  [AddRooms] Login details called 
+2018-12-13 18:00:58,278 INFO  [AddRooms] successfully Logged in 
+2018-12-13 18:00:58,314 INFO  [AddRooms] Initiated PageFactory 
+2018-12-13 18:01:02,896 INFO  [AddRooms] Click on Setup menu 
+2018-12-13 18:01:06,013 INFO  [AddRooms] Click on property info menu 
+2018-12-13 18:01:07,989 INFO  [AddRooms] Reading No of Room value 
+2018-12-13 18:01:07,989 INFO  [AddRooms] printing No. of Room count 
+2018-12-13 18:01:07,989 INFO  [AddRooms] parsing Text to integer value10 
+2018-12-13 18:01:07,989 INFO  [AddRooms] printing converted value on console 
+2018-12-13 18:01:08,273 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-13 18:01:08,273 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-13 18:01:08,801 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-13 18:01:12,665 INFO  [AddRooms] Inserted Roominfo details 
+2018-12-13 18:01:14,499 INFO  [AddRooms] Inserted Weekly Room Rate 
+2018-12-13 18:01:15,699 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2018-12-13 18:01:17,470 INFO  [AddRooms] Inserted Weekly Room Availability 
+2018-12-13 18:01:17,470 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2018-12-13 18:01:18,316 INFO  [AddRooms] Clicked on bed config dropdown 
+2018-12-13 18:01:18,316 INFO  [AddRooms] Read bed config value from excel 
+2018-12-13 18:01:27,593 INFO  [AddRooms] printing all Bed config drop down values 
+2018-12-13 18:02:00,698 INFO  [AddRooms] bed config value selected as per excel data 
+2018-12-14 16:43:52,214 INFO  [AddRooms] Login details called 
+2018-12-14 16:44:07,712 INFO  [AddRooms] successfully Logged in 
+2018-12-14 16:44:07,751 INFO  [AddRooms] Initiated PageFactory 
+2018-12-14 16:44:12,864 INFO  [AddRooms] Click on Setup menu 
+2018-12-14 16:44:15,971 INFO  [AddRooms] Click on property info menu 
+2018-12-14 16:44:24,362 INFO  [AddRooms] Reading No of Room value 
+2018-12-14 16:44:24,362 INFO  [AddRooms] printing No. of Room count 
+2018-12-14 16:44:24,362 INFO  [AddRooms] parsing Text to integer value10 
+2018-12-14 16:44:24,363 INFO  [AddRooms] printing converted value on console 
+2018-12-14 16:44:24,633 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-14 16:44:24,633 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-14 16:44:25,196 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-14 16:44:29,765 INFO  [AddRooms] Inserted Roominfo details 
+2018-12-14 16:44:31,618 INFO  [AddRooms] Inserted Weekly Room Rate 
+2018-12-14 16:44:33,044 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2018-12-14 16:44:34,379 INFO  [AddRooms] Inserted Weekly Room Availability 
+2018-12-14 16:44:34,379 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2018-12-14 16:44:35,126 INFO  [AddRooms] Clicked on bed config dropdown 
+2018-12-14 16:44:35,126 INFO  [AddRooms] Read bed config value from excel 
+2018-12-14 16:44:35,351 INFO  [AddRooms] printing all Bed config drop down values 
+2018-12-14 16:44:35,414 INFO  [AddRooms] bed config value selected as per excel data 
+2018-12-14 16:47:30,799 INFO  [AddRooms] Login details called 
+2018-12-14 16:47:36,535 INFO  [AddRooms] successfully Logged in 
+2018-12-14 16:47:36,863 INFO  [AddRooms] Initiated PageFactory 
+2018-12-14 16:47:43,754 INFO  [AddRooms] Click on Setup menu 
+2018-12-14 16:47:46,858 INFO  [AddRooms] Click on property info menu 
+2018-12-14 16:47:54,389 INFO  [AddRooms] Reading No of Room value 
+2018-12-14 16:47:54,389 INFO  [AddRooms] printing No. of Room count 
+2018-12-14 16:47:54,389 INFO  [AddRooms] parsing Text to integer value10 
+2018-12-14 16:47:54,390 INFO  [AddRooms] printing converted value on console 
+2018-12-14 16:47:54,661 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-14 16:47:54,661 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-14 16:47:55,341 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-14 16:48:03,106 INFO  [AddRooms] Inserted Roominfo details 
+2018-12-14 16:48:04,708 INFO  [AddRooms] Inserted Weekly Room Rate 
+2018-12-14 16:48:05,708 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2018-12-14 16:48:06,934 INFO  [AddRooms] Inserted Weekly Room Availability 
+2018-12-14 16:48:06,934 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2018-12-14 16:48:07,673 INFO  [AddRooms] Clicked on bed config dropdown 
+2018-12-14 16:48:25,040 INFO  [AddRooms] Read bed config value from excel 
+2018-12-14 16:48:37,519 INFO  [AddRooms] printing all Bed config drop down values 
+2018-12-14 16:50:04,727 INFO  [AddRooms] Login details called 
+2018-12-14 16:50:15,910 INFO  [AddRooms] successfully Logged in 
+2018-12-14 16:50:15,956 INFO  [AddRooms] Initiated PageFactory 
+2018-12-14 16:50:20,062 INFO  [AddRooms] Click on Setup menu 
+2018-12-14 16:50:23,169 INFO  [AddRooms] Click on property info menu 
+2018-12-14 16:50:26,813 INFO  [AddRooms] Reading No of Room value 
+2018-12-14 16:50:26,813 INFO  [AddRooms] printing No. of Room count 
+2018-12-14 16:50:26,813 INFO  [AddRooms] parsing Text to integer value10 
+2018-12-14 16:50:26,814 INFO  [AddRooms] printing converted value on console 
+2018-12-14 16:50:27,076 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-14 16:50:27,076 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-14 16:50:27,661 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-14 16:50:31,456 INFO  [AddRooms] Inserted Roominfo details 
+2018-12-14 16:50:33,016 INFO  [AddRooms] Inserted Weekly Room Rate 
+2018-12-14 16:50:34,015 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2018-12-14 16:50:35,277 INFO  [AddRooms] Inserted Weekly Room Availability 
+2018-12-14 16:50:35,277 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2018-12-14 16:50:36,027 INFO  [AddRooms] Clicked on bed config dropdown 
+2018-12-14 16:50:44,767 INFO  [AddRooms] Read bed config value from excel 
+2018-12-14 16:50:51,935 INFO  [AddRooms] printing all Bed config drop down values 
+2018-12-14 16:51:16,392 INFO  [AddRooms] bed config value selected as per excel data 
+2018-12-14 16:57:51,623 INFO  [AddRooms] Login details called 
+2018-12-14 16:57:58,194 INFO  [AddRooms] successfully Logged in 
+2018-12-14 16:57:58,238 INFO  [AddRooms] Initiated PageFactory 
+2018-12-14 16:58:02,997 INFO  [AddRooms] Click on Setup menu 
+2018-12-14 16:58:06,109 INFO  [AddRooms] Click on property info menu 
+2018-12-14 16:58:08,251 INFO  [AddRooms] Reading No of Room value 
+2018-12-14 16:58:08,252 INFO  [AddRooms] printing No. of Room count 
+2018-12-14 16:58:08,252 INFO  [AddRooms] parsing Text to integer value10 
+2018-12-14 16:58:08,252 INFO  [AddRooms] printing converted value on console 
+2018-12-14 16:58:08,513 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-14 16:58:08,513 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-14 16:58:09,097 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-14 16:58:12,731 INFO  [AddRooms] Inserted Roominfo details 
+2018-12-14 16:58:14,306 INFO  [AddRooms] Inserted Weekly Room Rate 
+2018-12-14 16:58:15,293 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2018-12-14 16:58:16,709 INFO  [AddRooms] Inserted Weekly Room Availability 
+2018-12-14 16:58:16,709 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2018-12-14 16:58:17,455 INFO  [AddRooms] Clicked on bed config dropdown 
+2018-12-14 16:58:29,262 INFO  [AddRooms] Read bed config value from excel 
+2018-12-14 18:14:52,451 INFO  [AddRooms] Login details called 
+2018-12-14 18:15:17,739 INFO  [AddRooms] successfully Logged in 
+2018-12-14 18:15:17,791 INFO  [AddRooms] Initiated PageFactory 
+2018-12-14 18:15:28,243 INFO  [AddRooms] Click on Setup menu 
+2018-12-14 18:15:31,342 INFO  [AddRooms] Click on property info menu 
+2018-12-14 18:15:33,942 INFO  [AddRooms] Reading No of Room value 
+2018-12-14 18:15:33,942 INFO  [AddRooms] printing No. of Room count 
+2018-12-14 18:15:33,942 INFO  [AddRooms] parsing Text to integer value10 
+2018-12-14 18:15:33,942 INFO  [AddRooms] printing converted value on console 
+2018-12-14 18:15:34,236 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-14 18:15:34,236 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-14 18:15:35,014 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-14 18:15:38,656 INFO  [AddRooms] Inserted Roominfo details 
+2018-12-14 18:15:40,180 INFO  [AddRooms] Inserted Weekly Room Rate 
+2018-12-14 18:15:41,379 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2018-12-14 18:15:42,606 INFO  [AddRooms] Inserted Weekly Room Availability 
+2018-12-14 18:15:42,606 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2018-12-14 18:15:43,326 INFO  [AddRooms] Clicked on bed config dropdown 
+2018-12-14 18:15:49,172 INFO  [AddRooms] Read bed config value from excel 
+2018-12-14 18:15:51,085 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2018-12-14 18:16:02,244 INFO  [AddRooms] Bed value added and Amenities selected 
+2018-12-14 18:26:34,748 INFO  [AddRooms] Login details called 
+2018-12-14 18:26:41,121 INFO  [AddRooms] successfully Logged in 
+2018-12-14 18:26:41,180 INFO  [AddRooms] Initiated PageFactory 
+2018-12-14 18:26:45,368 INFO  [AddRooms] Click on Setup menu 
+2018-12-14 18:26:48,462 INFO  [AddRooms] Click on property info menu 
+2018-12-14 18:26:51,156 INFO  [AddRooms] Reading No of Room value 
+2018-12-14 18:26:51,156 INFO  [AddRooms] printing No. of Room count 
+2018-12-14 18:26:51,156 INFO  [AddRooms] parsing Text to integer value10 
+2018-12-14 18:26:51,156 INFO  [AddRooms] printing converted value on console 
+2018-12-14 18:26:51,526 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-14 18:26:51,526 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-14 18:26:52,719 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-14 18:27:00,108 INFO  [AddRooms] Inserted Roominfo details 
+2018-12-14 18:27:01,681 INFO  [AddRooms] Inserted Weekly Room Rate 
+2018-12-14 18:27:02,717 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2018-12-14 18:27:03,935 INFO  [AddRooms] Inserted Weekly Room Availability 
+2018-12-14 18:27:03,936 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2018-12-14 18:27:04,681 INFO  [AddRooms] Clicked on bed config dropdown 
+2018-12-14 18:27:04,682 INFO  [AddRooms] Read bed config value from excel 
+2018-12-14 18:27:04,831 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2018-12-14 18:27:05,719 INFO  [AddRooms] Bed value added and Amenities selected 
+2018-12-14 18:27:38,005 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-14 18:27:41,180 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-17 14:58:16,042 INFO  [AddRooms] Login details called 
+2018-12-17 14:59:11,513 INFO  [AddRooms] successfully Logged in 
+2018-12-17 14:59:11,562 INFO  [AddRooms] Initiated PageFactory 
+2018-12-17 14:59:19,502 INFO  [AddRooms] Click on Setup menu 
+2018-12-17 14:59:22,612 INFO  [AddRooms] Click on property info menu 
+2018-12-17 14:59:27,395 INFO  [AddRooms] Reading No of Room value 
+2018-12-17 14:59:27,395 INFO  [AddRooms] printing No. of Room count 
+2018-12-17 14:59:27,395 INFO  [AddRooms] parsing Text to integer value5 
+2018-12-17 14:59:27,395 INFO  [AddRooms] printing converted value on console 
+2018-12-17 14:59:27,687 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-17 14:59:27,687 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-17 14:59:34,485 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-17 14:59:47,162 INFO  [AddRooms] Inserted Roominfo details 
+2018-12-17 14:59:48,746 INFO  [AddRooms] Inserted Weekly Room Rate 
+2018-12-17 14:59:49,764 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2018-12-17 14:59:50,994 INFO  [AddRooms] Inserted Weekly Room Availability 
+2018-12-17 14:59:50,994 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2018-12-17 14:59:51,710 INFO  [AddRooms] Clicked on bed config dropdown 
+2018-12-17 14:59:51,711 INFO  [AddRooms] Read bed config value from excel 
+2018-12-17 14:59:51,879 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2018-12-17 14:59:52,629 INFO  [AddRooms] Bed value added and Amenities selected 
+2018-12-17 15:07:28,504 INFO  [AddRooms] Login details called 
+2018-12-17 15:08:00,281 INFO  [AddRooms] successfully Logged in 
+2018-12-17 15:08:00,416 INFO  [AddRooms] Initiated PageFactory 
+2018-12-17 15:10:36,105 INFO  [AddRooms] Login details called 
+2018-12-17 15:11:34,813 INFO  [AddRooms] successfully Logged in 
+2018-12-17 15:11:34,985 INFO  [AddRooms] Initiated PageFactory 
+2018-12-17 15:11:40,800 INFO  [AddRooms] Click on Setup menu 
+2018-12-17 15:11:43,932 INFO  [AddRooms] Click on property info menu 
+2018-12-17 15:22:20,748 INFO  [AddRooms] Login details called 
+2018-12-17 15:22:40,295 INFO  [AddRooms] successfully Logged in 
+2018-12-17 15:22:40,636 INFO  [AddRooms] Initiated PageFactory 
+2018-12-17 15:22:45,225 INFO  [AddRooms] Click on Setup menu 
+2018-12-17 15:22:48,382 INFO  [AddRooms] Click on property info menu 
+2018-12-17 15:22:48,430 INFO  [AddRooms] Reading No of Room value 
+2018-12-17 15:22:48,431 INFO  [AddRooms] printing No. of Room count 
+2018-12-17 15:22:48,431 INFO  [AddRooms] parsing Text to integer value5 
+2018-12-17 15:22:48,454 INFO  [AddRooms] printing converted value on console 
+2018-12-17 15:25:41,032 INFO  [AddRooms] Login details called 
+2018-12-17 15:26:02,610 INFO  [AddRooms] successfully Logged in 
+2018-12-17 15:26:02,711 INFO  [AddRooms] Initiated PageFactory 
+2018-12-17 15:26:07,867 INFO  [AddRooms] Click on Setup menu 
+2018-12-17 15:26:11,046 INFO  [AddRooms] Click on property info menu 
+2018-12-17 15:26:11,098 INFO  [AddRooms] Reading No of Room value 
+2018-12-17 15:26:11,098 INFO  [AddRooms] printing No. of Room count 
+2018-12-17 15:26:11,098 INFO  [AddRooms] parsing Text to integer value5 
+2018-12-17 15:26:11,098 INFO  [AddRooms] printing converted value on console 
+2018-12-17 15:27:26,996 INFO  [AddRooms] Login details called 
+2018-12-17 15:27:47,530 INFO  [AddRooms] successfully Logged in 
+2018-12-17 15:27:47,568 INFO  [AddRooms] Initiated PageFactory 
+2018-12-17 15:27:54,071 INFO  [AddRooms] Click on Setup menu 
+2018-12-17 15:27:57,240 INFO  [AddRooms] Click on property info menu 
+2018-12-17 15:27:57,290 INFO  [AddRooms] Reading No of Room value 
+2018-12-17 15:27:57,290 INFO  [AddRooms] printing No. of Room count 
+2018-12-17 15:27:57,290 INFO  [AddRooms] parsing Text to integer value5 
+2018-12-17 15:27:57,290 INFO  [AddRooms] printing converted value on console 
+2018-12-17 15:40:34,973 INFO  [AddRooms] Login details called 
+2018-12-17 15:41:14,313 INFO  [AddRooms] successfully Logged in 
+2018-12-17 15:41:15,204 INFO  [AddRooms] Initiated PageFactory 
+2018-12-17 15:41:20,425 INFO  [AddRooms] Click on Setup menu 
+2018-12-17 15:41:23,597 INFO  [AddRooms] Click on property info menu 
+2018-12-17 15:41:23,677 INFO  [AddRooms] Reading No of Room value 
+2018-12-17 15:41:23,678 INFO  [AddRooms] printing No. of Room count 
+2018-12-17 15:41:23,678 INFO  [AddRooms] parsing Text to integer value5 
+2018-12-17 15:41:23,678 INFO  [AddRooms] printing converted value on console 
+2018-12-17 15:43:17,640 INFO  [AddRooms] Login details called 
+2018-12-17 15:43:40,494 INFO  [AddRooms] successfully Logged in 
+2018-12-17 15:43:40,551 INFO  [AddRooms] Initiated PageFactory 
+2018-12-17 15:44:10,776 INFO  [AddRooms] Click on Setup menu 
+2018-12-17 15:44:33,795 INFO  [AddRooms] Click on property info menu 
+2018-12-17 15:44:37,074 INFO  [AddRooms] Reading No of Room value 
+2018-12-17 15:44:37,987 INFO  [AddRooms] printing No. of Room count 
+2018-12-17 15:44:39,636 INFO  [AddRooms] parsing Text to integer value5 
+2018-12-17 15:44:41,658 INFO  [AddRooms] printing converted value on console 
+2018-12-17 15:44:52,354 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-17 15:44:53,538 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-17 15:44:55,578 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-17 15:45:17,378 INFO  [AddRooms] Inserted Roominfo details 
+2018-12-17 15:45:21,457 INFO  [AddRooms] Inserted Weekly Room Rate 
+2018-12-17 15:45:25,258 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2018-12-17 15:45:29,458 INFO  [AddRooms] Inserted Weekly Room Availability 
+2018-12-17 15:45:31,634 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is not 1 or 3  
+2018-12-17 15:45:40,449 INFO  [AddRooms] Clicked on bed config dropdown 
+2018-12-17 15:45:42,569 INFO  [AddRooms] Read bed config value from excel 
+2018-12-17 15:45:44,673 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2018-12-17 15:46:11,785 INFO  [AddRooms] Bed value added and Amenities selected 
+2018-12-18 14:43:39,472 INFO  [AddRooms] Login details called 
+2018-12-18 14:44:10,977 INFO  [AddRooms] successfully Logged in 
+2018-12-18 14:44:11,063 INFO  [AddRooms] Initiated PageFactory 
+2018-12-18 15:00:01,892 INFO  [AddRooms] Login details called 
+2018-12-18 15:00:29,824 INFO  [AddRooms] successfully Logged in 
+2018-12-18 15:00:29,876 INFO  [AddRooms] Initiated PageFactory 
+2018-12-18 15:01:20,619 INFO  [AddRooms] Login details called 
+2018-12-18 15:01:33,809 INFO  [AddRooms] successfully Logged in 
+2018-12-18 15:01:33,880 INFO  [AddRooms] Initiated PageFactory 
+2018-12-18 15:01:39,176 INFO  [AddRooms] Click on Setup menu 
+2018-12-18 15:01:42,332 INFO  [AddRooms] Click on property info menu 
+2018-12-18 15:01:42,372 INFO  [AddRooms] Reading No of Room value 
+2018-12-18 15:01:42,372 INFO  [AddRooms] printing No. of Room count 
+2018-12-18 15:01:42,372 INFO  [AddRooms] parsing Text to integer value5 
+2018-12-18 15:01:42,373 INFO  [AddRooms] printing converted value on console 
+2018-12-18 15:32:17,282 INFO  [AddRooms] Login details called 
+2018-12-18 15:32:40,794 INFO  [AddRooms] successfully Logged in 
+2018-12-18 15:32:41,030 INFO  [AddRooms] Initiated PageFactory 
+2018-12-18 15:32:45,218 INFO  [AddRooms] Click on Setup menu 
+2018-12-18 15:32:48,392 INFO  [AddRooms] Click on property info menu 
+2018-12-18 15:32:48,443 INFO  [AddRooms] Reading No of Room value 
+2018-12-18 15:32:48,443 INFO  [AddRooms] printing No. of Room count 
+2018-12-18 15:32:48,443 INFO  [AddRooms] parsing Text to integer value5 
+2018-12-18 15:32:48,444 INFO  [AddRooms] printing converted value on console 
+2018-12-18 15:34:32,805 INFO  [AddRooms] Login details called 
+2018-12-18 15:35:07,771 INFO  [AddRooms] successfully Logged in 
+2018-12-18 15:35:07,812 INFO  [AddRooms] Initiated PageFactory 
+2018-12-18 15:37:00,503 INFO  [AddRooms] Login details called 
+2018-12-18 15:37:19,192 INFO  [AddRooms] successfully Logged in 
+2018-12-18 15:37:19,253 INFO  [AddRooms] Initiated PageFactory 
+2018-12-18 15:37:23,422 INFO  [AddRooms] Click on Setup menu 
+2018-12-18 15:37:26,642 INFO  [AddRooms] Click on property info menu 
+2018-12-18 15:37:26,688 INFO  [AddRooms] Reading No of Room value 
+2018-12-18 15:37:26,688 INFO  [AddRooms] printing No. of Room count 
+2018-12-18 15:37:26,688 INFO  [AddRooms] parsing Text to integer value5 
+2018-12-18 15:37:26,688 INFO  [AddRooms] printing converted value on console 
+2018-12-18 17:22:14,314 INFO  [AddRooms] Login details called 
+2018-12-18 17:22:33,374 INFO  [AddRooms] successfully Logged in 
+2018-12-18 17:22:33,470 INFO  [AddRooms] Initiated PageFactory 
+2018-12-18 17:22:38,321 INFO  [AddRooms] Click on Setup menu 
+2018-12-18 17:22:41,411 INFO  [AddRooms] Click on property info menu 
+2018-12-18 17:23:46,022 INFO  [AddRooms] Login details called 
+2018-12-18 17:24:12,176 INFO  [AddRooms] successfully Logged in 
+2018-12-18 17:24:12,572 INFO  [AddRooms] Initiated PageFactory 
+2018-12-18 17:24:17,036 INFO  [AddRooms] Click on Setup menu 
+2018-12-18 17:24:20,298 INFO  [AddRooms] Click on property info menu 
+2018-12-18 17:24:20,353 INFO  [AddRooms] Reading No of Room value 
+2018-12-18 17:24:20,353 INFO  [AddRooms] printing No. of Room count 
+2018-12-18 17:24:20,353 INFO  [AddRooms] parsing Text to integer value5 
+2018-12-18 17:24:20,353 INFO  [AddRooms] printing converted value on console 
+2018-12-18 17:29:46,544 INFO  [AddRooms] Login details called 
+2018-12-18 17:30:01,536 INFO  [AddRooms] successfully Logged in 
+2018-12-18 17:30:01,905 INFO  [AddRooms] Initiated PageFactory 
+2018-12-18 17:30:06,759 INFO  [AddRooms] Click on Setup menu 
+2018-12-18 17:30:10,101 INFO  [AddRooms] Click on property info menu 
+2018-12-18 17:30:10,150 INFO  [AddRooms] Reading No of Room value 
+2018-12-18 17:30:10,151 INFO  [AddRooms] printing No. of Room count 
+2018-12-18 17:30:10,151 INFO  [AddRooms] parsing Text to integer value5 
+2018-12-18 17:30:10,151 INFO  [AddRooms] printing converted value on console 
+2018-12-18 17:31:36,508 INFO  [AddRooms] Login details called 
+2018-12-18 17:31:49,491 INFO  [AddRooms] successfully Logged in 
+2018-12-18 17:31:49,550 INFO  [AddRooms] Initiated PageFactory 
+2018-12-18 17:31:53,953 INFO  [AddRooms] Click on Setup menu 
+2018-12-18 17:31:57,200 INFO  [AddRooms] Click on property info menu 
+2018-12-18 17:31:57,244 INFO  [AddRooms] Reading No of Room value 
+2018-12-18 17:31:57,244 INFO  [AddRooms] printing No. of Room count 
+2018-12-18 17:31:57,244 INFO  [AddRooms] parsing Text to integer value5 
+2018-12-18 17:31:57,244 INFO  [AddRooms] printing converted value on console 
+2018-12-18 18:11:14,461 INFO  [AddRooms] Login details called 
+2018-12-18 18:11:46,877 INFO  [AddRooms] successfully Logged in 
+2018-12-18 18:11:47,010 INFO  [AddRooms] Initiated PageFactory 
+2018-12-18 18:11:52,058 INFO  [AddRooms] Click on Setup menu 
+2018-12-18 18:11:55,203 INFO  [AddRooms] Click on property info menu 
+2018-12-18 18:12:55,839 INFO  [AddRooms] Login details called 
+2018-12-18 18:13:15,358 INFO  [AddRooms] successfully Logged in 
+2018-12-18 18:13:15,398 INFO  [AddRooms] Initiated PageFactory 
+2018-12-18 18:13:19,976 INFO  [AddRooms] Click on Setup menu 
+2018-12-18 18:13:23,182 INFO  [AddRooms] Click on property info menu 
+2018-12-18 18:13:23,240 INFO  [AddRooms] Reading No of Room value 
+2018-12-18 18:13:23,240 INFO  [AddRooms] printing No. of Room count 
+2018-12-18 18:13:23,240 INFO  [AddRooms] parsing Text to integer value5 
+2018-12-18 18:16:52,696 INFO  [AddRooms] Login details called 
+2018-12-18 18:17:13,877 INFO  [AddRooms] successfully Logged in 
+2018-12-18 18:17:13,930 INFO  [AddRooms] Initiated PageFactory 
+2018-12-18 18:18:00,184 INFO  [AddRooms] Login details called 
+2018-12-18 18:18:12,369 INFO  [AddRooms] successfully Logged in 
+2018-12-18 18:18:12,416 INFO  [AddRooms] Initiated PageFactory 
+2018-12-18 18:18:16,819 INFO  [AddRooms] Click on Setup menu 
+2018-12-18 18:18:20,018 INFO  [AddRooms] Click on property info menu 
+2018-12-18 18:18:20,070 INFO  [AddRooms] Reading No of Room value 
+2018-12-18 18:18:20,070 INFO  [AddRooms] printing No. of Room count 
+2018-12-18 18:18:20,070 INFO  [AddRooms] parsing Text to integer value5 
+2018-12-18 19:31:45,158 INFO  [AddRooms] Login details called 
+2018-12-18 19:31:58,024 INFO  [AddRooms] successfully Logged in 
+2018-12-18 19:31:58,120 INFO  [AddRooms] Initiated PageFactory 
+2018-12-18 19:32:02,458 INFO  [AddRooms] Click on Setup menu 
+2018-12-18 19:32:05,460 INFO  [AddRooms] Click on property info menu 
+2018-12-18 19:32:05,460 INFO  [AddRooms] Reading No of Room value 
+2018-12-18 19:32:05,460 INFO  [AddRooms] printing No. of Room count 
+2018-12-18 19:32:05,460 INFO  [AddRooms] printing converted value on console 
+2018-12-18 19:32:05,677 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-18 19:32:05,677 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-18 19:32:06,822 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-28 15:58:26,114 INFO  [AddRooms] Login details called 
+2018-12-28 15:58:40,937 INFO  [AddRooms] successfully Logged in 
+2018-12-28 15:58:41,232 INFO  [AddRooms] Initiated PageFactory 
+2018-12-28 15:58:45,302 INFO  [AddRooms] Click on Setup menu 
+2018-12-28 15:58:48,303 INFO  [AddRooms] Click on property info menu 
+2018-12-28 15:58:48,303 INFO  [AddRooms] Reading No of Room value 
+2018-12-28 15:58:48,303 INFO  [AddRooms] printing No. of Room count 
+2018-12-28 15:58:48,303 INFO  [AddRooms] printing converted value on console 
+2018-12-28 15:58:48,486 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-28 15:58:48,486 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-28 16:00:19,027 INFO  [AddRooms] Login details called 
+2018-12-28 16:00:23,859 INFO  [AddRooms] successfully Logged in 
+2018-12-28 16:00:23,954 INFO  [AddRooms] Initiated PageFactory 
+2018-12-28 16:00:28,626 INFO  [AddRooms] Click on Setup menu 
+2018-12-28 16:00:31,721 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-28 16:00:31,722 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-28 16:02:37,044 INFO  [AddRooms] Login details called 
+2018-12-28 16:02:45,462 INFO  [AddRooms] successfully Logged in 
+2018-12-28 16:02:45,734 INFO  [AddRooms] Initiated PageFactory 
+2018-12-28 16:02:51,859 INFO  [AddRooms] Click on Setup menu 
+2018-12-28 16:02:54,979 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-28 16:02:54,979 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-28 16:04:09,014 INFO  [AddRooms] Login details called 
+2018-12-28 16:04:15,918 INFO  [AddRooms] successfully Logged in 
+2018-12-28 16:04:16,017 INFO  [AddRooms] Initiated PageFactory 
+2018-12-28 16:04:20,909 INFO  [AddRooms] Click on Setup menu 
+2018-12-28 16:04:24,224 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-28 16:04:24,224 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-28 16:04:27,308 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-28 16:04:33,677 INFO  [AddRooms] Inserted Roominfo details 
+2018-12-28 16:04:35,361 INFO  [AddRooms] Inserted Weekly Room Rate 
+2018-12-28 16:04:36,386 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2018-12-28 16:04:37,639 INFO  [AddRooms] Inserted Weekly Room Availability 
+2018-12-28 16:04:37,639 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2018-12-28 16:04:38,503 INFO  [AddRooms] Clicked on bed config dropdown 
+2018-12-28 16:04:38,504 INFO  [AddRooms] Read bed config value from excel 
+2018-12-28 16:04:38,796 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2018-12-28 16:04:39,578 INFO  [AddRooms] Bed value added and Amenities selected 
+2018-12-28 16:06:14,419 INFO  [AddRooms] Login details called 
+2018-12-28 16:06:42,467 INFO  [AddRooms] successfully Logged in 
+2018-12-28 16:06:42,622 INFO  [AddRooms] Initiated PageFactory 
+2018-12-28 16:06:46,975 INFO  [AddRooms] Click on Setup menu 
+2018-12-28 16:06:50,256 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-28 16:06:50,256 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-28 16:06:53,506 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-28 16:07:01,720 INFO  [AddRooms] Inserted Roominfo details 
+2018-12-28 16:07:03,721 INFO  [AddRooms] Inserted Weekly Room Rate 
+2018-12-28 16:07:04,773 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2018-12-28 16:07:06,085 INFO  [AddRooms] Inserted Weekly Room Availability 
+2018-12-28 16:07:06,086 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is not 1 or 3  
+2018-12-28 16:07:06,935 INFO  [AddRooms] Clicked on bed config dropdown 
+2018-12-28 16:07:06,936 INFO  [AddRooms] Read bed config value from excel 
+2018-12-28 16:07:07,077 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2018-12-28 16:07:07,926 INFO  [AddRooms] Bed value added and Amenities selected 
+2018-12-28 16:09:03,783 INFO  [AddRooms] Login details called 
+2018-12-28 16:09:18,340 INFO  [AddRooms] successfully Logged in 
+2018-12-28 16:09:18,552 INFO  [AddRooms] Initiated PageFactory 
+2018-12-28 16:09:22,626 INFO  [AddRooms] Click on Setup menu 
+2018-12-28 16:09:25,884 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-28 16:09:25,884 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-28 16:09:29,385 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-28 16:09:37,535 INFO  [AddRooms] Inserted Roominfo details 
+2018-12-28 16:09:39,070 INFO  [AddRooms] Inserted Weekly Room Rate 
+2018-12-28 16:09:40,069 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2018-12-28 16:09:41,320 INFO  [AddRooms] Inserted Weekly Room Availability 
+2018-12-28 16:09:41,320 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2018-12-28 16:09:42,149 INFO  [AddRooms] Clicked on bed config dropdown 
+2018-12-28 16:09:42,149 INFO  [AddRooms] Read bed config value from excel 
+2018-12-28 16:09:42,450 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2018-12-28 16:11:19,393 INFO  [AddRooms] Login details called 
+2018-12-28 16:11:46,917 INFO  [AddRooms] successfully Logged in 
+2018-12-28 16:11:47,199 INFO  [AddRooms] Initiated PageFactory 
+2018-12-28 16:11:52,190 INFO  [AddRooms] Click on Setup menu 
+2018-12-28 16:11:55,437 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-28 16:11:55,437 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-28 16:11:58,681 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-28 16:12:07,571 INFO  [AddRooms] Inserted Roominfo details 
+2018-12-28 16:12:09,174 INFO  [AddRooms] Inserted Weekly Room Rate 
+2018-12-28 16:12:10,216 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2018-12-28 16:12:11,431 INFO  [AddRooms] Inserted Weekly Room Availability 
+2018-12-28 16:12:11,431 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2018-12-28 16:12:12,194 INFO  [AddRooms] Clicked on bed config dropdown 
+2018-12-28 16:12:12,195 INFO  [AddRooms] Read bed config value from excel 
+2018-12-28 16:12:12,358 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2018-12-28 16:13:35,579 INFO  [AddRooms] Login details called 
+2018-12-28 16:13:46,866 INFO  [AddRooms] successfully Logged in 
+2018-12-28 16:13:46,946 INFO  [AddRooms] Initiated PageFactory 
+2018-12-28 16:15:50,897 INFO  [AddRooms] Login details called 
+2018-12-28 16:16:04,950 INFO  [AddRooms] successfully Logged in 
+2018-12-28 16:16:05,205 INFO  [AddRooms] Initiated PageFactory 
+2018-12-28 16:16:09,737 INFO  [AddRooms] Click on Setup menu 
+2018-12-28 16:16:12,950 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-28 16:16:12,950 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-28 16:16:16,088 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-28 16:16:26,172 INFO  [AddRooms] Inserted Roominfo details 
+2018-12-28 16:16:27,892 INFO  [AddRooms] Inserted Weekly Room Rate 
+2018-12-28 16:16:28,949 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2018-12-28 16:16:30,233 INFO  [AddRooms] Inserted Weekly Room Availability 
+2018-12-28 16:16:30,233 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2018-12-28 16:16:30,962 INFO  [AddRooms] Clicked on bed config dropdown 
+2018-12-28 16:16:30,963 INFO  [AddRooms] Read bed config value from excel 
+2018-12-28 16:16:31,222 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2018-12-28 16:18:27,066 INFO  [AddRooms] Login details called 
+2018-12-28 16:18:45,299 INFO  [AddRooms] successfully Logged in 
+2018-12-28 16:18:46,091 INFO  [AddRooms] Initiated PageFactory 
+2018-12-28 16:18:50,718 INFO  [AddRooms] Click on Setup menu 
+2018-12-28 16:18:54,024 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-28 16:18:54,024 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-28 16:18:57,235 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-28 16:19:09,329 INFO  [AddRooms] Inserted Roominfo details 
+2018-12-28 16:19:10,872 INFO  [AddRooms] Inserted Weekly Room Rate 
+2018-12-28 16:19:11,804 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2018-12-28 16:19:13,040 INFO  [AddRooms] Inserted Weekly Room Availability 
+2018-12-28 16:19:13,040 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2018-12-28 16:19:13,746 INFO  [AddRooms] Clicked on bed config dropdown 
+2018-12-28 16:19:13,747 INFO  [AddRooms] Read bed config value from excel 
+2018-12-28 16:19:13,939 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2018-12-28 16:19:17,701 INFO  [AddRooms] Bed value added and Amenities selected 
+2018-12-29 11:14:29,165 INFO  [AddRooms] Login details called 
+2018-12-29 11:14:49,150 INFO  [AddRooms] successfully Logged in 
+2018-12-29 11:14:49,166 INFO  [AddRooms] Initiated PageFactory 
+2018-12-29 11:53:45,177 INFO  [AddRooms] Login details called 
+2018-12-29 11:53:54,068 INFO  [AddRooms] successfully Logged in 
+2018-12-29 11:53:54,159 INFO  [AddRooms] Initiated PageFactory 
+2018-12-29 11:53:56,049 INFO  [AddRooms] Click on Setup menu 
+2018-12-31 16:15:32,145 INFO  [AddRooms] Login details called 
+2018-12-31 16:15:37,621 INFO  [AddRooms] successfully Logged in 
+2018-12-31 16:15:37,633 INFO  [AddRooms] Initiated PageFactory 
+2018-12-31 16:17:24,553 INFO  [AddRooms] Login details called 
+2018-12-31 16:17:30,670 INFO  [AddRooms] successfully Logged in 
+2018-12-31 16:17:30,709 INFO  [AddRooms] Initiated PageFactory 
+2018-12-31 16:19:23,263 INFO  [AddRooms] Login details called 
+2018-12-31 16:19:26,873 INFO  [AddRooms] successfully Logged in 
+2018-12-31 16:19:26,886 INFO  [AddRooms] Initiated PageFactory 
+2018-12-31 16:19:31,116 INFO  [AddRooms] Click on Setup menu 
+2018-12-31 16:19:34,221 INFO  [AddRooms] Click on property info menu 
+2018-12-31 16:19:36,308 INFO  [AddRooms] Reading No of Room value 
+2018-12-31 16:19:36,308 INFO  [AddRooms] printing No. of Room count 
+2018-12-31 16:19:36,309 INFO  [AddRooms] parsing Text to integer value5 
+2018-12-31 16:19:36,309 INFO  [AddRooms] printing converted value on console 
+2018-12-31 16:19:36,665 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-31 16:19:36,665 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-31 16:19:39,780 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-31 16:19:43,042 INFO  [AddRooms] Inserted Roominfo details 
+2018-12-31 16:19:44,710 INFO  [AddRooms] Inserted Weekly Room Rate 
+2018-12-31 16:19:45,688 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2018-12-31 16:19:46,870 INFO  [AddRooms] Inserted Weekly Room Availability 
+2018-12-31 16:19:46,870 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2018-12-31 16:19:47,602 INFO  [AddRooms] Clicked on bed config dropdown 
+2018-12-31 16:19:47,603 INFO  [AddRooms] Read bed config value from excel 
+2018-12-31 16:19:47,770 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2018-12-31 16:19:51,542 INFO  [AddRooms] Bed value added and Amenities selected 
+2018-12-31 16:19:57,507 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-31 16:20:00,640 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-31 16:21:14,494 INFO  [AddRooms] Login details called 
+2018-12-31 16:21:25,572 INFO  [AddRooms] successfully Logged in 
+2018-12-31 16:21:25,739 INFO  [AddRooms] Initiated PageFactory 
+2018-12-31 16:21:29,880 INFO  [AddRooms] Click on Setup menu 
+2018-12-31 16:21:33,039 INFO  [AddRooms] Click on property info menu 
+2018-12-31 16:21:33,078 INFO  [AddRooms] Reading No of Room value 
+2018-12-31 16:21:33,078 INFO  [AddRooms] printing No. of Room count 
+2018-12-31 16:21:33,078 INFO  [AddRooms] parsing Text to integer value5 
+2018-12-31 16:21:33,078 INFO  [AddRooms] printing converted value on console 
+2018-12-31 16:25:13,602 INFO  [AddRooms] Login details called 
+2018-12-31 16:25:25,012 INFO  [AddRooms] successfully Logged in 
+2018-12-31 16:25:25,051 INFO  [AddRooms] Initiated PageFactory 
+2018-12-31 16:25:29,329 INFO  [AddRooms] Click on Setup menu 
+2018-12-31 16:25:32,465 INFO  [AddRooms] Click on property info menu 
+2018-12-31 16:25:32,511 INFO  [AddRooms] Reading No of Room value 
+2018-12-31 16:25:32,511 INFO  [AddRooms] printing No. of Room count 
+2018-12-31 16:25:32,512 INFO  [AddRooms] parsing Text to integer value5 
+2018-12-31 16:25:32,512 INFO  [AddRooms] printing converted value on console 
+2018-12-31 16:25:32,512 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-31 16:25:32,512 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-31 16:28:59,605 INFO  [AddRooms] Login details called 
+2018-12-31 16:29:08,645 INFO  [AddRooms] successfully Logged in 
+2018-12-31 16:29:08,658 INFO  [AddRooms] Initiated PageFactory 
+2018-12-31 16:29:12,402 INFO  [AddRooms] Click on Setup menu 
+2018-12-31 16:29:15,572 INFO  [AddRooms] Click on property info menu 
+2018-12-31 16:29:15,622 INFO  [AddRooms] Reading No of Room value 
+2018-12-31 16:29:15,622 INFO  [AddRooms] printing No. of Room count 
+2018-12-31 16:29:15,623 INFO  [AddRooms] parsing Text to integer value5 
+2018-12-31 16:29:15,623 INFO  [AddRooms] printing converted value on console 
+2018-12-31 16:31:07,515 INFO  [AddRooms] Login details called 
+2018-12-31 16:31:21,305 INFO  [AddRooms] successfully Logged in 
+2018-12-31 16:31:21,389 INFO  [AddRooms] Initiated PageFactory 
+2018-12-31 16:31:25,115 INFO  [AddRooms] Click on Setup menu 
+2018-12-31 16:31:28,271 INFO  [AddRooms] Click on property info menu 
+2018-12-31 16:31:28,317 INFO  [AddRooms] Reading No of Room value 
+2018-12-31 16:31:28,317 INFO  [AddRooms] printing No. of Room count 
+2018-12-31 16:31:28,317 INFO  [AddRooms] parsing Text to integer value5 
+2018-12-31 16:31:28,317 INFO  [AddRooms] printing converted value on console 
+2018-12-31 16:33:23,693 INFO  [AddRooms] Login details called 
+2018-12-31 16:33:35,455 INFO  [AddRooms] successfully Logged in 
+2018-12-31 16:33:35,562 INFO  [AddRooms] Initiated PageFactory 
+2018-12-31 16:33:39,652 INFO  [AddRooms] Click on Setup menu 
+2018-12-31 16:33:43,255 INFO  [AddRooms] Click on property info menu 
+2018-12-31 16:33:43,299 INFO  [AddRooms] Reading No of Room value 
+2018-12-31 16:33:43,299 INFO  [AddRooms] printing No. of Room count 
+2018-12-31 16:33:43,299 INFO  [AddRooms] parsing Text to integer value5 
+2018-12-31 16:33:43,299 INFO  [AddRooms] printing converted value on console 
+2018-12-31 16:35:03,957 INFO  [AddRooms] Login details called 
+2018-12-31 16:35:15,659 INFO  [AddRooms] successfully Logged in 
+2018-12-31 16:35:15,721 INFO  [AddRooms] Initiated PageFactory 
+2018-12-31 16:35:19,433 INFO  [AddRooms] Click on Setup menu 
+2018-12-31 16:35:22,579 INFO  [AddRooms] Click on property info menu 
+2018-12-31 16:35:22,648 INFO  [AddRooms] Reading No of Room value 
+2018-12-31 16:35:22,648 INFO  [AddRooms] printing No. of Room count 
+2018-12-31 16:35:22,648 INFO  [AddRooms] parsing Text to integer value5 
+2018-12-31 16:35:22,648 INFO  [AddRooms] printing converted value on console 
+2018-12-31 16:35:25,976 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-31 16:35:25,976 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-31 16:35:29,107 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-31 16:42:03,511 INFO  [AddRooms] Login details called 
+2018-12-31 16:42:14,093 INFO  [AddRooms] successfully Logged in 
+2018-12-31 16:42:14,167 INFO  [AddRooms] Initiated PageFactory 
+2018-12-31 16:48:04,278 INFO  [AddRooms] Login details called 
+2018-12-31 16:48:18,775 INFO  [AddRooms] successfully Logged in 
+2018-12-31 16:48:18,875 INFO  [AddRooms] Initiated PageFactory 
+2018-12-31 16:51:45,742 INFO  [AddRooms] Login details called 
+2018-12-31 16:51:59,160 INFO  [AddRooms] successfully Logged in 
+2018-12-31 16:51:59,173 INFO  [AddRooms] Initiated PageFactory 
+2018-12-31 16:56:09,214 INFO  [AddRooms] Login details called 
+2018-12-31 16:56:24,086 INFO  [AddRooms] successfully Logged in 
+2018-12-31 16:56:24,190 INFO  [AddRooms] Initiated PageFactory 
+2018-12-31 16:56:28,372 INFO  [AddRooms] Click on Setup menu 
+2018-12-31 16:56:31,532 INFO  [AddRooms] Click on property info menu 
+2018-12-31 16:56:31,579 INFO  [AddRooms] Reading No of Room value 
+2018-12-31 16:56:31,581 INFO  [AddRooms] printing No. of Room count 
+2018-12-31 16:56:31,581 INFO  [AddRooms] parsing Text to integer value5 
+2018-12-31 16:56:31,582 INFO  [AddRooms] printing converted value on console 
+2018-12-31 16:56:34,977 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2018-12-31 16:56:34,978 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-31 16:56:38,139 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-31 16:56:42,279 INFO  [AddRooms] Inserted Roominfo details 
+2018-12-31 16:56:44,162 INFO  [AddRooms] Inserted Weekly Room Rate 
+2018-12-31 16:56:45,225 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2018-12-31 16:56:46,440 INFO  [AddRooms] Inserted Weekly Room Availability 
+2018-12-31 16:56:46,440 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2018-12-31 16:56:47,104 INFO  [AddRooms] Clicked on bed config dropdown 
+2018-12-31 16:56:47,105 INFO  [AddRooms] Read bed config value from excel 
+2018-12-31 16:56:47,193 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2018-12-31 16:56:50,920 INFO  [AddRooms] Bed value added and Amenities selected 
+2018-12-31 16:56:56,792 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-31 16:56:59,953 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-31 16:57:02,495 INFO  [AddRooms] Inserted Roominfo details 
+2018-12-31 16:57:04,011 INFO  [AddRooms] Inserted Weekly Room Rate 
+2018-12-31 16:57:04,908 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2018-12-31 16:57:05,845 INFO  [AddRooms] Inserted Weekly Room Availability 
+2018-12-31 16:57:05,845 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is not 1 or 3  
+2018-12-31 16:57:06,517 INFO  [AddRooms] Clicked on bed config dropdown 
+2018-12-31 16:57:06,518 INFO  [AddRooms] Read bed config value from excel 
+2018-12-31 16:57:06,587 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2018-12-31 16:57:10,323 INFO  [AddRooms] Bed value added and Amenities selected 
+2018-12-31 16:57:16,211 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-31 16:57:19,327 INFO  [AddRooms] Clicked on Add Room Icon 
+2018-12-31 16:57:21,990 INFO  [AddRooms] Inserted Roominfo details 
+2018-12-31 16:57:23,686 INFO  [AddRooms] Inserted Weekly Room Rate 
+2018-12-31 16:57:24,539 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2018-12-31 16:57:25,529 INFO  [AddRooms] Inserted Weekly Room Availability 
+2018-12-31 16:57:25,529 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2018-12-31 16:57:26,203 INFO  [AddRooms] Clicked on bed config dropdown 
+2018-12-31 16:57:26,204 INFO  [AddRooms] Read bed config value from excel 
+2018-12-31 16:57:26,294 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2018-12-31 16:57:29,980 INFO  [AddRooms] Bed value added and Amenities selected 
+2018-12-31 16:57:35,680 INFO  [AddRooms] For loop applied with no. of Room count 
+2018-12-31 16:57:38,868 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-01-03 16:14:29,222 INFO  [AddRooms] Login details called 
+2019-01-03 16:14:35,368 INFO  [AddRooms] successfully Logged in 
+2019-01-03 16:14:35,437 INFO  [AddRooms] Initiated PageFactory 
+2019-01-03 16:14:39,493 INFO  [AddRooms] Click on Setup menu 
+2019-01-03 16:14:42,589 INFO  [AddRooms] Click on property info menu 
+2019-01-03 16:14:44,248 INFO  [AddRooms] Reading No of Room value 
+2019-01-03 16:14:44,248 INFO  [AddRooms] printing No. of Room count 
+2019-01-03 16:14:44,248 INFO  [AddRooms] parsing Text to integer value5 
+2019-01-03 16:14:44,248 INFO  [AddRooms] printing converted value on console 
+2019-01-03 16:14:47,558 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2019-01-03 16:14:47,559 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-01-03 16:14:50,657 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-01-03 16:14:54,729 INFO  [AddRooms] Inserted Roominfo details 
+2019-01-03 16:14:56,394 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-01-03 16:14:57,546 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-01-03 16:14:58,951 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-01-03 16:14:58,951 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2019-01-03 16:14:59,619 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-01-03 16:14:59,620 INFO  [AddRooms] Read bed config value from excel 
+2019-01-03 16:14:59,735 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-01-03 16:15:03,488 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-01-03 16:15:09,561 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-01-03 16:15:12,672 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-01-03 16:15:14,774 INFO  [AddRooms] Inserted Roominfo details 
+2019-01-03 16:15:16,380 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-01-03 16:15:17,321 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-01-03 16:15:18,273 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-01-03 16:15:18,273 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is not 1 or 3  
+2019-01-03 16:15:18,949 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-01-03 16:15:18,950 INFO  [AddRooms] Read bed config value from excel 
+2019-01-03 16:15:19,027 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-01-03 16:15:22,764 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-01-03 16:15:28,625 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-01-03 16:15:31,775 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-01-03 16:15:34,448 INFO  [AddRooms] Inserted Roominfo details 
+2019-01-03 16:15:35,959 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-01-03 16:15:36,822 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-01-03 16:15:37,845 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-01-03 16:15:37,845 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2019-01-03 16:15:38,541 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-01-03 16:15:38,542 INFO  [AddRooms] Read bed config value from excel 
+2019-01-03 16:15:38,629 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-01-03 16:15:42,335 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-01-03 16:15:50,329 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-01-03 16:15:53,436 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-01-07 15:59:05,606 INFO  [AddRooms] Login details called 
+2019-01-07 16:08:11,789 INFO  [AddRooms] Login details called 
+2019-01-07 16:08:18,153 INFO  [AddRooms] successfully Logged in 
+2019-01-07 16:08:18,189 INFO  [AddRooms] Initiated PageFactory 
+2019-01-07 16:08:24,044 INFO  [AddRooms] Click on Setup menu 
+2019-01-07 16:08:27,138 INFO  [AddRooms] Click on property info menu 
+2019-01-07 16:08:29,132 INFO  [AddRooms] Reading No of Room value 
+2019-01-07 16:08:29,132 INFO  [AddRooms] printing No. of Room count 
+2019-01-07 16:08:29,132 INFO  [AddRooms] parsing Text to integer value5 
+2019-01-07 16:08:29,132 INFO  [AddRooms] printing converted value on console 
+2019-01-07 16:08:32,398 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2019-01-07 16:08:32,398 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-01-07 16:08:35,511 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-01-07 16:08:38,128 INFO  [AddRooms] Inserted Roominfo details 
+2019-01-07 16:08:39,769 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-01-07 16:08:40,697 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-01-07 16:08:41,697 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-01-07 16:08:41,697 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2019-01-07 16:08:42,408 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-01-07 16:08:42,408 INFO  [AddRooms] Read bed config value from excel 
+2019-01-07 16:08:42,497 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-01-07 16:08:46,194 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-01-07 16:08:51,964 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-01-07 16:08:55,105 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-01-07 16:09:05,688 INFO  [AddRooms] Inserted Roominfo details 
+2019-01-07 16:09:07,135 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-01-07 16:09:08,041 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-01-07 16:09:08,979 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-01-07 16:09:08,979 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is not 1 or 3  
+2019-01-07 16:09:09,677 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-01-07 16:09:09,677 INFO  [AddRooms] Read bed config value from excel 
+2019-01-07 16:09:09,752 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-01-07 16:09:13,505 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-01-07 16:09:19,169 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-01-07 16:09:22,299 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-01-07 16:09:24,799 INFO  [AddRooms] Inserted Roominfo details 
+2019-01-07 16:09:26,262 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-01-07 16:09:27,124 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-01-07 16:09:28,093 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-01-07 16:09:28,093 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2019-01-07 16:09:28,810 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-01-07 16:09:28,810 INFO  [AddRooms] Read bed config value from excel 
+2019-01-07 16:09:28,901 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-01-07 16:09:32,594 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-01-07 16:09:38,550 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-01-07 16:09:41,683 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-03-13 16:15:08,880 INFO  [AddRooms] Login details called 
+2019-03-13 16:15:10,961 INFO  [AddRooms] successfully Logged in 
+2019-03-13 16:15:11,005 INFO  [AddRooms] Initiated PageFactory 
+2019-03-13 16:17:30,081 INFO  [AddRooms] Login details called 
+2019-03-13 16:17:56,408 INFO  [AddRooms] successfully Logged in 
+2019-03-13 16:22:40,234 INFO  [AddRooms] Login details called 
+2019-03-13 16:22:51,248 INFO  [AddRooms] successfully Logged in 
+2019-03-13 16:22:51,296 INFO  [AddRooms] Initiated PageFactory 
+2019-03-13 16:22:56,200 INFO  [AddRooms] Click on Setup menu 
+2019-03-13 16:22:59,284 INFO  [AddRooms] Click on property info menu 
+2019-03-13 16:23:03,144 INFO  [AddRooms] Reading No of Room value 
+2019-03-13 16:23:03,144 INFO  [AddRooms] printing No. of Room count 
+2019-03-13 16:23:03,145 INFO  [AddRooms] parsing Text to integer value5 
+2019-03-13 16:23:03,145 INFO  [AddRooms] printing converted value on console 
+2019-03-13 16:23:06,496 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2019-03-13 16:23:06,496 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-03-13 16:23:09,613 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-03-13 16:23:13,852 INFO  [AddRooms] Inserted Roominfo details 
+2019-03-13 16:23:15,460 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-03-13 16:23:16,545 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-03-13 16:23:17,765 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-03-13 16:23:17,766 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2019-03-13 16:23:18,528 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-03-13 16:23:18,529 INFO  [AddRooms] Read bed config value from excel 
+2019-03-13 16:23:18,666 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-03-13 16:23:22,368 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-03-13 16:23:30,436 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-03-13 16:23:33,548 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-03-13 16:23:38,535 INFO  [AddRooms] Inserted Roominfo details 
+2019-03-13 16:23:40,086 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-03-13 16:23:40,998 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-03-13 16:23:42,194 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-03-13 16:23:42,194 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is not 1 or 3  
+2019-03-13 16:23:42,869 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-03-13 16:23:42,869 INFO  [AddRooms] Read bed config value from excel 
+2019-03-13 16:23:42,958 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-03-13 16:23:46,746 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-03-13 16:23:57,658 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-03-13 16:24:00,788 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-03-13 16:24:04,287 INFO  [AddRooms] Inserted Roominfo details 
+2019-03-13 16:24:05,757 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-03-13 16:24:06,717 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-03-13 16:24:07,888 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-03-13 16:24:07,888 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2019-03-13 16:24:08,549 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-03-13 16:24:08,549 INFO  [AddRooms] Read bed config value from excel 
+2019-03-13 16:24:08,623 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-03-13 16:24:12,597 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-03-13 16:24:20,635 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-03-13 16:24:23,768 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-03-13 16:24:27,402 INFO  [AddRooms] Inserted Roominfo details 
+2019-03-13 16:24:28,876 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-03-13 16:24:29,822 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-03-13 16:24:30,878 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-03-13 16:24:30,878 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is not 1 or 3  
+2019-03-13 16:24:31,602 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-03-13 16:24:31,603 INFO  [AddRooms] Read bed config value from excel 
+2019-03-13 16:24:31,667 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-03-13 16:24:35,406 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-04-10 18:05:28,375 INFO  [AddRooms] Login details called 
+2019-04-10 18:36:32,737 INFO  [AddRooms] Login details called 
+2019-04-10 19:08:08,761 INFO  [AddRooms] Login details called 
+2019-04-10 19:08:16,569 INFO  [AddRooms] successfully Logged in 
+2019-04-10 19:08:16,909 INFO  [AddRooms] Initiated PageFactory 
+2019-04-10 19:08:23,100 INFO  [AddRooms] Click on Setup menu 
+2019-04-10 19:08:26,202 INFO  [AddRooms] Click on property info menu 
+2019-04-10 19:08:30,215 INFO  [AddRooms] Reading No of Room value 
+2019-04-10 19:08:30,216 INFO  [AddRooms] printing No. of Room count 
+2019-04-10 19:08:30,216 INFO  [AddRooms] parsing Text to integer value5 
+2019-04-10 19:08:30,216 INFO  [AddRooms] printing converted value on console 
+2019-04-10 19:08:33,468 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2019-04-10 19:08:33,468 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-04-10 19:08:36,578 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-04-10 19:08:39,687 INFO  [AddRooms] Inserted Roominfo details 
+2019-04-10 19:08:41,136 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-04-10 19:08:42,023 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-04-10 19:08:42,945 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-04-10 19:08:42,945 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2019-04-10 19:08:43,585 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-04-10 19:08:43,586 INFO  [AddRooms] Read bed config value from excel 
+2019-04-10 19:08:43,666 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-04-10 19:08:47,338 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-04-10 19:08:55,388 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-04-10 19:08:58,489 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-04-10 19:09:01,968 INFO  [AddRooms] Inserted Roominfo details 
+2019-04-10 19:09:03,376 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-04-10 19:09:04,251 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-04-10 19:09:05,236 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-04-10 19:09:05,236 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is not 1 or 3  
+2019-04-10 19:09:05,933 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-04-10 19:09:05,934 INFO  [AddRooms] Read bed config value from excel 
+2019-04-10 19:09:06,008 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-04-10 19:09:09,689 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-04-10 19:09:17,824 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-04-10 19:09:20,983 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-04-10 19:09:24,259 INFO  [AddRooms] Inserted Roominfo details 
+2019-04-10 19:09:25,660 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-04-10 19:09:26,518 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-04-10 19:09:27,507 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-04-10 19:09:27,507 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2019-04-10 19:09:28,239 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-04-10 19:09:28,240 INFO  [AddRooms] Read bed config value from excel 
+2019-04-10 19:09:28,304 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-04-10 19:09:31,981 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-04-10 19:09:39,712 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-04-10 19:09:42,853 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-04-10 19:09:45,796 INFO  [AddRooms] Inserted Roominfo details 
+2019-04-10 19:09:47,211 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-04-10 19:09:48,057 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-04-10 19:09:48,995 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-04-10 19:09:48,995 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is not 1 or 3  
+2019-04-10 19:09:49,642 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-04-10 19:09:49,643 INFO  [AddRooms] Read bed config value from excel 
+2019-04-10 19:09:49,706 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-04-10 19:09:53,370 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-04-24 18:35:41,842 INFO  [AddRooms] Login details called 
+2019-04-24 18:35:52,545 INFO  [AddRooms] successfully Logged in 
+2019-04-24 18:35:52,573 INFO  [AddRooms] Initiated PageFactory 
+2019-04-24 18:35:57,335 INFO  [AddRooms] Click on Setup menu 
+2019-04-24 18:36:00,477 INFO  [AddRooms] Click on property info menu 
+2019-04-24 18:36:04,319 INFO  [AddRooms] Reading No of Room value 
+2019-04-24 18:36:04,320 INFO  [AddRooms] printing No. of Room count 
+2019-04-24 18:36:04,320 INFO  [AddRooms] parsing Text to integer value5 
+2019-04-24 18:36:04,320 INFO  [AddRooms] printing converted value on console 
+2019-04-24 18:36:07,600 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2019-04-24 18:36:07,600 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-04-24 18:36:10,710 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-04-24 18:36:13,936 INFO  [AddRooms] Inserted Roominfo details 
+2019-04-24 18:36:15,465 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-04-24 18:36:16,528 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-04-24 18:36:17,712 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-04-24 18:36:17,712 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2019-04-24 18:36:18,525 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-04-24 18:36:18,525 INFO  [AddRooms] Read bed config value from excel 
+2019-04-24 18:36:18,613 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-04-24 18:36:22,447 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-04-24 18:36:30,932 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-04-24 18:36:34,056 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-04-24 18:36:38,816 INFO  [AddRooms] Inserted Roominfo details 
+2019-04-24 18:36:40,334 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-04-24 18:36:41,306 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-04-24 18:36:42,462 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-04-24 18:36:42,462 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is not 1 or 3  
+2019-04-24 18:36:43,260 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-04-24 18:36:43,261 INFO  [AddRooms] Read bed config value from excel 
+2019-04-24 18:36:43,337 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-04-24 18:36:47,180 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-04-24 18:36:54,884 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-04-24 18:36:58,089 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-04-24 18:37:01,092 INFO  [AddRooms] Inserted Roominfo details 
+2019-04-24 18:37:02,615 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-04-24 18:37:03,716 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-04-24 18:37:04,901 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-04-24 18:37:04,901 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2019-04-24 18:37:05,723 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-04-24 18:37:05,724 INFO  [AddRooms] Read bed config value from excel 
+2019-04-24 18:37:05,814 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-04-24 18:37:09,612 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-04-24 18:37:17,233 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-04-24 18:37:20,400 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-04-24 18:37:23,533 INFO  [AddRooms] Inserted Roominfo details 
+2019-04-24 18:37:25,051 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-04-24 18:37:26,083 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-04-24 18:37:27,230 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-04-24 18:37:27,230 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is not 1 or 3  
+2019-04-24 18:37:28,008 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-04-24 18:37:28,009 INFO  [AddRooms] Read bed config value from excel 
+2019-04-24 18:37:28,081 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-04-24 18:37:31,945 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-04-25 13:07:13,629 INFO  [AddRooms] Login details called 
+2019-04-25 13:07:21,790 INFO  [AddRooms] successfully Logged in 
+2019-04-25 13:07:21,799 INFO  [AddRooms] Initiated PageFactory 
+2019-04-25 13:07:25,518 INFO  [AddRooms] Click on Setup menu 
+2019-04-25 13:07:28,649 INFO  [AddRooms] Click on property info menu 
+2019-04-25 13:07:30,239 INFO  [AddRooms] Reading No of Room value 
+2019-04-25 13:07:30,239 INFO  [AddRooms] printing No. of Room count 
+2019-04-25 13:07:30,240 INFO  [AddRooms] parsing Text to integer value5 
+2019-04-25 13:07:30,240 INFO  [AddRooms] printing converted value on console 
+2019-04-25 13:07:33,541 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2019-04-25 13:07:33,541 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-04-25 13:07:36,626 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-04-25 13:07:38,745 INFO  [AddRooms] Inserted Roominfo details 
+2019-04-25 13:07:40,277 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-04-25 13:07:41,354 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-04-25 13:07:42,576 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-04-25 13:07:42,577 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2019-04-25 13:07:43,385 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-04-25 13:07:43,385 INFO  [AddRooms] Read bed config value from excel 
+2019-04-25 13:07:43,471 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-04-25 13:07:47,309 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-04-25 13:07:52,590 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-04-25 13:07:55,685 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-04-25 13:08:01,254 INFO  [AddRooms] Inserted Roominfo details 
+2019-04-25 13:08:02,744 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-04-25 13:08:03,769 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-04-25 13:08:04,871 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-04-25 13:08:04,871 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is not 1 or 3  
+2019-04-25 13:08:05,651 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-04-25 13:08:05,651 INFO  [AddRooms] Read bed config value from excel 
+2019-04-25 13:08:05,740 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-04-25 13:08:09,502 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-04-25 13:08:17,441 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-04-25 13:08:20,611 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-04-25 13:08:23,116 INFO  [AddRooms] Inserted Roominfo details 
+2019-04-25 13:08:24,624 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-04-25 13:08:25,747 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-04-25 13:08:26,847 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-04-25 13:08:26,848 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2019-04-25 13:08:27,639 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-04-25 13:08:27,640 INFO  [AddRooms] Read bed config value from excel 
+2019-04-25 13:08:27,723 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-04-25 13:08:31,480 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-04-25 13:08:37,743 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-04-25 13:08:40,887 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-04-25 13:08:43,220 INFO  [AddRooms] Inserted Roominfo details 
+2019-04-25 13:08:44,757 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-04-25 13:08:45,794 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-04-25 13:08:46,944 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-04-25 13:08:46,944 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is not 1 or 3  
+2019-04-25 13:08:47,723 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-04-25 13:08:47,725 INFO  [AddRooms] Read bed config value from excel 
+2019-04-25 13:08:47,799 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-04-25 13:08:51,575 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-05-03 16:25:03,677 INFO  [AddRooms] Login details called 
+2019-05-03 16:26:52,603 INFO  [AddRooms] Login details called 
+2019-05-03 16:26:57,028 INFO  [AddRooms] successfully Logged in 
+2019-05-03 16:26:57,048 INFO  [AddRooms] Initiated PageFactory 
+2019-05-03 16:27:00,726 INFO  [AddRooms] Click on Setup menu 
+2019-05-03 16:27:03,847 INFO  [AddRooms] Click on property info menu 
+2019-05-03 16:27:05,492 INFO  [AddRooms] Reading No of Room value 
+2019-05-03 16:27:05,492 INFO  [AddRooms] printing No. of Room count 
+2019-05-03 16:27:05,493 INFO  [AddRooms] parsing Text to integer value3 
+2019-05-03 16:27:05,493 INFO  [AddRooms] printing converted value on console 
+2019-05-03 16:27:08,795 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2019-05-03 16:27:08,796 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-05-03 16:27:11,915 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-05-03 16:27:15,465 INFO  [AddRooms] Inserted Roominfo details 
+2019-05-03 16:27:17,162 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-05-03 16:27:18,332 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-05-03 16:27:19,640 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-05-03 16:27:19,640 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2019-05-03 16:27:20,529 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-05-03 16:27:20,530 INFO  [AddRooms] Read bed config value from excel 
+2019-05-03 16:27:20,660 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-05-03 16:27:24,593 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-05-03 16:27:30,277 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-05-03 16:27:33,392 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-05-03 16:27:38,560 INFO  [AddRooms] Inserted Roominfo details 
+2019-05-03 16:27:40,176 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-05-03 16:27:41,282 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-05-03 16:27:42,439 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-05-03 16:27:42,440 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is not 1 or 3  
+2019-05-03 16:27:43,262 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-05-03 16:27:43,263 INFO  [AddRooms] Read bed config value from excel 
+2019-05-03 16:27:43,382 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-05-03 16:27:47,218 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-05-10 11:40:06,866 INFO  [AddRooms] Login details called 
+2019-05-10 11:40:10,992 INFO  [AddRooms] successfully Logged in 
+2019-05-10 11:40:11,015 INFO  [AddRooms] Initiated PageFactory 
+2019-05-10 11:40:14,822 INFO  [AddRooms] Click on Setup menu 
+2019-05-10 11:40:17,983 INFO  [AddRooms] Click on property info menu 
+2019-05-10 11:40:19,718 INFO  [AddRooms] Reading No of Room value 
+2019-05-10 11:40:19,718 INFO  [AddRooms] printing No. of Room count 
+2019-05-10 11:40:19,718 INFO  [AddRooms] parsing Text to integer value4 
+2019-05-10 11:40:19,718 INFO  [AddRooms] printing converted value on console 
+2019-05-10 11:40:23,169 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2019-05-10 11:40:23,169 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-05-10 11:40:26,269 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-05-10 11:40:29,671 INFO  [AddRooms] Inserted Roominfo details 
+2019-05-10 11:40:31,773 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-05-10 11:40:33,083 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-05-10 11:40:34,480 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-05-10 11:40:34,480 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2019-05-10 11:40:35,786 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-05-10 11:40:35,786 INFO  [AddRooms] Read bed config value from excel 
+2019-05-10 11:40:35,899 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-05-10 11:40:39,943 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-05-10 11:40:47,653 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-05-10 11:40:50,788 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-05-10 11:41:06,522 INFO  [AddRooms] Inserted Roominfo details 
+2019-05-10 11:41:08,387 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-05-10 11:41:09,705 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-05-10 11:41:11,123 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-05-10 11:41:11,123 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is not 1 or 3  
+2019-05-10 11:41:12,073 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-05-10 11:41:12,074 INFO  [AddRooms] Read bed config value from excel 
+2019-05-10 11:41:12,226 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-05-10 11:41:16,191 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-05-10 11:41:23,291 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-05-10 11:41:26,467 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-05-10 11:41:29,085 INFO  [AddRooms] Inserted Roominfo details 
+2019-05-10 11:41:31,071 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-05-10 11:41:32,416 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-05-10 11:41:33,848 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-05-10 11:41:33,848 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2019-05-10 11:41:34,644 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-05-10 11:41:34,644 INFO  [AddRooms] Read bed config value from excel 
+2019-05-10 11:41:34,737 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-05-10 11:41:38,939 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-05-10 11:41:45,125 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-05-10 11:41:48,272 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-05-10 11:41:50,948 INFO  [AddRooms] Inserted Roominfo details 
+2019-05-10 11:41:52,886 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-05-10 11:41:54,244 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-05-10 11:41:55,706 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-05-10 11:41:55,706 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is not 1 or 3  
+2019-05-10 11:41:56,537 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-05-10 11:41:56,538 INFO  [AddRooms] Read bed config value from excel 
+2019-05-10 11:41:56,672 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-05-10 11:42:00,675 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-06-20 10:37:32,116 INFO  [AddRooms] Login details called 
+2019-06-20 10:37:39,421 INFO  [AddRooms] successfully Logged in 
+2019-06-20 10:37:39,471 INFO  [AddRooms] Initiated PageFactory 
+2019-06-20 10:37:43,271 INFO  [AddRooms] Click on Setup menu 
+2019-06-20 10:37:46,385 INFO  [AddRooms] Click on property info menu 
+2019-06-20 10:37:48,237 INFO  [AddRooms] Reading No of Room value 
+2019-06-20 10:37:48,238 INFO  [AddRooms] printing No. of Room count 
+2019-06-20 10:37:48,238 INFO  [AddRooms] parsing Text to integer value8 
+2019-06-20 10:37:48,238 INFO  [AddRooms] printing converted value on console 
+2019-06-20 10:37:51,523 INFO  [AddRooms] Clicked on Room menu under setup menu 
+2019-06-20 10:37:51,523 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-06-20 10:37:54,620 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-06-20 10:37:56,993 INFO  [AddRooms] Inserted Roominfo details 
+2019-06-20 10:37:58,605 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-06-20 10:37:59,689 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-06-20 10:38:00,904 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-06-20 10:38:00,904 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2019-06-20 10:38:01,793 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-06-20 10:38:01,794 INFO  [AddRooms] Read bed config value from excel 
+2019-06-20 10:38:01,908 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-06-20 10:38:05,778 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-06-20 10:38:16,038 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-06-20 10:38:19,157 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-06-20 10:38:24,494 INFO  [AddRooms] Inserted Roominfo details 
+2019-06-20 10:38:25,954 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-06-20 10:38:27,026 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-06-20 10:38:28,233 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-06-20 10:38:28,233 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is not 1 or 3  
+2019-06-20 10:38:29,110 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-06-20 10:38:29,111 INFO  [AddRooms] Read bed config value from excel 
+2019-06-20 10:38:29,212 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-06-20 10:38:33,240 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-06-20 10:38:42,606 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-06-20 10:38:45,739 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-06-20 10:38:47,799 INFO  [AddRooms] Inserted Roominfo details 
+2019-06-20 10:38:49,437 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-06-20 10:38:50,522 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-06-20 10:38:51,656 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-06-20 10:38:51,656 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is 1 or 3  
+2019-06-20 10:38:52,540 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-06-20 10:38:52,541 INFO  [AddRooms] Read bed config value from excel 
+2019-06-20 10:38:52,656 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-06-20 10:38:56,691 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-06-20 10:39:05,245 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-06-20 10:39:08,432 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-06-20 10:39:10,552 INFO  [AddRooms] Inserted Roominfo details 
+2019-06-20 10:39:12,124 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-06-20 10:39:13,129 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-06-20 10:39:14,375 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-06-20 10:39:14,375 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is not 1 or 3  
+2019-06-20 10:39:15,237 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-06-20 10:39:15,238 INFO  [AddRooms] Read bed config value from excel 
+2019-06-20 10:39:15,324 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-06-20 10:39:19,186 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-06-20 10:39:29,614 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-06-20 10:39:32,755 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-06-20 10:39:34,819 INFO  [AddRooms] Inserted Roominfo details 
+2019-06-20 10:39:36,417 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-06-20 10:39:37,541 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-06-20 10:39:38,787 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-06-20 10:39:38,787 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is not 1 or 3  
+2019-06-20 10:39:39,626 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-06-20 10:39:39,627 INFO  [AddRooms] Read bed config value from excel 
+2019-06-20 10:39:39,744 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-06-20 10:39:43,760 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-06-20 10:39:53,400 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-06-20 10:39:56,557 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-06-20 10:39:58,938 INFO  [AddRooms] Inserted Roominfo details 
+2019-06-20 10:40:00,414 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-06-20 10:40:01,470 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-06-20 10:40:02,582 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-06-20 10:40:02,582 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is not 1 or 3  
+2019-06-20 10:40:03,418 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-06-20 10:40:03,418 INFO  [AddRooms] Read bed config value from excel 
+2019-06-20 10:40:03,493 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-06-20 10:40:07,454 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-06-20 10:40:16,925 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-06-20 10:40:20,091 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-06-20 10:40:22,543 INFO  [AddRooms] Inserted Roominfo details 
+2019-06-20 10:40:24,038 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-06-20 10:40:25,040 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-06-20 10:40:26,111 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-06-20 10:40:26,111 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is not 1 or 3  
+2019-06-20 10:40:26,951 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-06-20 10:40:26,951 INFO  [AddRooms] Read bed config value from excel 
+2019-06-20 10:40:27,026 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-06-20 10:40:30,923 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-06-20 10:40:40,505 INFO  [AddRooms] For loop applied with no. of Room count 
+2019-06-20 10:40:43,832 INFO  [AddRooms] Clicked on Add Room Icon 
+2019-06-20 10:40:46,086 INFO  [AddRooms] Inserted Roominfo details 
+2019-06-20 10:40:47,594 INFO  [AddRooms] Inserted Weekly Room Rate 
+2019-06-20 10:40:48,703 INFO  [AddRooms] Inserted Weekly Room Min stay 
+2019-06-20 10:40:50,014 INFO  [AddRooms] Inserted Weekly Room Availability 
+2019-06-20 10:40:50,015 INFO  [AddRooms] select stop sell, closed on arrival and closed on departue..if value is not 1 or 3  
+2019-06-20 10:40:50,991 INFO  [AddRooms] Clicked on bed config dropdown 
+2019-06-20 10:40:50,992 INFO  [AddRooms] Read bed config value from excel 
+2019-06-20 10:40:51,070 INFO  [AddRooms] For loop to check excel match with drop-down valie if yes the select it 
+2019-06-20 10:40:54,824 INFO  [AddRooms] Bed value added and Amenities selected 
+2019-06-21 15:44:20,790 INFO  [AddRooms] Login details called 
+2019-06-21 15:44:32,487 INFO  [AddRooms] successfully Logged in 
+2019-06-21 15:44:32,517 INFO  [AddRooms] Initiated PageFactory 

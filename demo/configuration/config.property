@@ -1,0 +1,7 @@
+chromeDriver=D:\\valmiki\\Selenium program New\\demo\\driver\\chromedriver.exe
+
+Firefoxdriver=D:\\valmiki\\Selenium program New\\demo\\driver\\geckodriver.exe
+
+URL=https://v2.useross.com.au/
+
+Excelpath=D:\\valmiki\\Selenium program New\\demo\\data\\ARRAtestscript.xlsx

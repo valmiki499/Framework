@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+ <s:Envelope
+  xmlns:s="http://schemas.xmlsoap.org/soap/envelope/">
+  <s:Header>
+   <wsse:Security s:mustUnderstand="1"
+    xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd">
+    <wsse:UsernameToken>
+     <wsse:Username>hotelv2</wsse:Username>
+     <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">H#ddawi!dj8v2</wsse:Password>
+    </wsse:UsernameToken>
+   </wsse:Security>
+  </s:Header>
+  <s:Body>
+   <OTA_HotelResNotifRQ LastModifyDateTime="2014-03-27 10:41:27" ResStatus="Modify" Version="1"
+    xmlns="http://www.opentravel.org/OTA/2003/05"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <HotelReservations>
+     <HotelReservation>
+      <RoomStays>
+       <RoomStay>
+        <RoomTypes>
+         <RoomType NumberOfUnits="1" RoomTypeCode="1">
+          <RoomDescription Name="Deluxe Double/Twin" />
+         </RoomType>
+        </RoomTypes>
+        <RoomRates>
+         <RoomRate RatePlanCode="6873_11">
+          <Rates>
+           <Rate AllocationType="Static" EffectiveDate="2019-04-23" ExpireDate="2019-04-24" RoomPricingType="Per night">
+            <Base AmountAfterTax="110.00" AmountBeforeTax="100" CurrencyCode="AUD">
+             <Taxes>
+              <Tax Amount="10" Code="GST" CurrencyCode="AUD" />
+             </Taxes>
+            </Base>
+            <Total AmountAfterTax="110.00" AmountBeforeTax="100" CurrencyCode="AUD">
+             <Taxes>
+              <Tax Amount="10" Code="GST" CurrencyCode="AUD" />
+             </Taxes>
+            </Total>
+           </Rate>
+          </Rates>
+         </RoomRate>
+        </RoomRates>
+        <GuestCounts>
+         <GuestCount AgeQualifyingCode="10" Count="1" />
+        </GuestCounts>
+        <TimeSpan End="2014-03-28" Start="2014-03-25" />
+        <Total AmountAfterTax="330.00" CurrencyCode="AUD" />
+        <BasicPropertyInfo HotelCode="6873" HotelName="Pensione Hotel Sydney" />
+        <ResGuestRPHs>
+         <ResGuestRPH RPH="1" />
+        </ResGuestRPHs>
+        <Comments>
+         <Comment>
+          <Text>**Guest has departed today 27th of March. As per hotel they will still be charging for tonight due to late cancellation. Confirmed with 
+ Todd.Traveller did not indicate an arrival time</Text>
+         </Comment>
+        </Comments>
+       </RoomStay>
+      </RoomStays>
+      <ResGuests>
+       <ResGuest PrimaryIndicator="true" ResGuestRPH="1">
+        <Profiles>
+        <ProfileInfo>
+           <Profile>
+           <Customer>
+           <PersonName>
+           <GivenName>valmiki</GivenName>
+           <Surname>krishna</Surname>
+           </PersonName>
+           <Telephone PhoneNumber="" />
+           <Email>valmiki.k@intelegain.com</Email>
+           </Customer>
+           </Profile>
+        </ProfileInfo>
+        </Profiles>
+       </ResGuest>
+      </ResGuests>
+      <ResGlobalInfo>
+       <Total AmountAfterTax="330.00" CurrencyCode="AUD" />
+       <HotelReservationIDs>
+        <HotelReservationID ResID_Source="TheHotelNetwork" ResID_Type="14" ResID_Value="142546223" />
+       </HotelReservationIDs>
+      </ResGlobalInfo>
+     </HotelReservation>
+    </HotelReservations>
+   </OTA_HotelResNotifRQ>
+  </s:Body>
+</s:Envelope>
