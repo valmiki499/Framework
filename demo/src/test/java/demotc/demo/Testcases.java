@@ -42,8 +42,8 @@ public class Testcases extends Commonfunction{
 		public void setup(String browser) throws Exception
 		{
 			logger.info("Starting Application");
-			Initialize(browser);
 			
+			Initialize(browser);
 		}
 		
 		@Test
