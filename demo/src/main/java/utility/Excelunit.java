@@ -28,7 +28,8 @@ public class Excelunit {
 	
 	//path of excel sheet
 	//public static String excelpath ="D:\\ARRA Project\\ARRAtestscript.xlsx"; 
-	public static String excelpath ="D:\\valmiki\\Selenium program New\\demo\\data\\ARRAtestscript.xlsx"; 
+	//public static String excelpath ="D:\\valmiki\\Selenium program New\\demo\\data\\ARRAtestscript.xlsx";
+	public static String excelpath ="C:\\Users\\valmiki\\git\\Framework\\demo\\data\\ARRAtestscript.xlsx";
 	
 	public static void configexcel(String path, String sheetname) throws Exception
 	{

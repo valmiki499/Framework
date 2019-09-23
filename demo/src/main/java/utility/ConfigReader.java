@@ -14,7 +14,8 @@ public class ConfigReader {
 	{
 		
 		try {
-			File src=new File("D:\\valmiki\\Selenium program New\\demo\\configuration\\config.property");
+			//File src=new File("D:\\valmiki\\Selenium program New\\demo\\configuration\\config.property");
+			File src=new File("C:\\Users\\valmiki\\git\\Framework\\demo\\configuration\\config.property");
 			FileInputStream fi = new FileInputStream(src);
 			pro= new Properties();
 			pro.load(fi);
