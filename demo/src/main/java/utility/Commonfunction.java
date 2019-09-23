@@ -116,10 +116,10 @@ public class Commonfunction {
 	public static String failed(WebDriver driver)
 	{
 		TakesScreenshot ts=((TakesScreenshot)driver);
-		String Screenshotpath=System.getProperty("user.dir") +"/Screenshots/"+ getCurrentdateandTime() +".png";
+		String Screenshotpath=System.getProperty("user.dir") +"/TSFailErrorscreenshot/"+ getCurrentdateandTime() +".png";
 		try {
 			File source= ts.getScreenshotAs(OutputType.FILE);
-			File des= new File("D:\\valmiki\\Selenium program New\\demo\\TSFailErrorscreenshot\\"+getCurrentdateandTime()+".png");
+			File des= new File(Screenshotpath);
 			FileUtils.copyFile(source, des);
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
